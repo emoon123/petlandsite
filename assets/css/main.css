@@ -2074,7 +2074,7 @@ input, select, textarea {
 
 	#banner {
 		position: relative;
-		padding: 4.5em;
+		padding: 2.5em;
 	}
 
 		#banner h2 {
@@ -2090,7 +2090,7 @@ input, select, textarea {
 
 		#banner .button {
 			width: 100%;
-			margin-bottom: 0.5em;
+			margin-bottom: 0.1em;
 		}
 
 			#banner .button.icon:before {
