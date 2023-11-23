@@ -1944,7 +1944,7 @@ input, select, textarea {
 			font-family: 'monospace', serif;
 			font-weight: 500;
 			padding: 0.25em 0.2em 0.25em 0.2em;
-			font-size: em;
+			font-size: 3em;
 			letter-spacing: 0.05em;
 			display: inline-block;
 			vertical-align: middle;
