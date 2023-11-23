@@ -1912,17 +1912,17 @@ input, select, textarea {
 	}
 
 	#features-wrapper {
-		padding: 3em 0 3em 0;
+		padding: 1em 0 1em 0;
 	}
 
 	#main-wrapper {
 		background: #fff;
 		box-shadow: 0px 3px 0px 0px rgba(0, 0, 0, 0.05);
-		padding: 5em 0 5em 0;
+		padding: 2em 0 2em 0;
 	}
 
 	#footer-wrapper {
-		padding: 6em 0 8em 0;
+		padding: 2em 0 2em 0;
 	}
 
 /* Header */
@@ -1944,7 +1944,7 @@ input, select, textarea {
 			font-family: 'monospace', serif;
 			font-weight: 500;
 			padding: 0.25em 0.2em 0.25em 0.2em;
-			font-size: 2em;
+			font-size: em;
 			letter-spacing: 0.05em;
 			display: inline-block;
 			vertical-align: middle;
