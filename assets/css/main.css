@@ -1942,9 +1942,9 @@ input, select, textarea {
 			color: #fff;
 			border-radius: 6px;
 			font-family: 'monospace', serif;
-			font-weight: 400;
+			font-weight: 500;
 			padding: 0.25em 0.2em 0.25em 0.2em;
-			font-size: 3em;
+			font-size: 2em;
 			letter-spacing: 0.05em;
 			display: inline-block;
 			vertical-align: middle;
